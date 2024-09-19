@@ -1,0 +1,5 @@
+6x7
+Number of nodes created: 490035
+Number of nodes searched: 0
+Number of nodes pruned: 0
+Duration of move: 1

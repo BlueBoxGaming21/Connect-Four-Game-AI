@@ -1,0 +1,10 @@
+6x7
+level 5
+Number of nodes created: 70947
+Number of nodes searched: 10193
+Duration of move #1: 0
+Duration of move #2: 0
+Duration of move #3: 0
+Duration of move #4: 0
+Duration of move #5: 0
+Duration of move #6: 0

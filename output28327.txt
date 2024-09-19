@@ -1,0 +1,16 @@
+6x7
+Number of nodes created: 602207
+Number of nodes searched: 91751
+Duration of move #1: 0
+Duration of move #2: 5
+Duration of move #3: 3
+Duration of move #4: 0
+Duration of move #5: 4
+Duration of move #6: 5
+Duration of move #7: 2
+Duration of move #8: 1
+Duration of move #9: 2
+Duration of move #10: 0
+Duration of move #11: 0
+Duration of move #12: 0
+Duration of move #13: 0

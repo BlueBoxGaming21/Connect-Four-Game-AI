@@ -1,0 +1,11 @@
+6x7
+level 6
+Number of nodes created: 529843
+Number of nodes searched: 93787
+Duration of move #1: 0
+Duration of move #2: 2
+Duration of move #3: 2
+Duration of move #4: 2
+Duration of move #5: 2
+Duration of move #6: 1
+Duration of move #7: 0
